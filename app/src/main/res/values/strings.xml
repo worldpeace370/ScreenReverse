@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScreenReverse</string>
+    <string name="button1">AsyncTaskAndSaveInstanceState</string>
+    <string name="button2">AsyncTaskAndFragment</string>
+    <string name="button3">ConfigChangesTestActivity</string>
+    <string name="button4">FixProblemsActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
